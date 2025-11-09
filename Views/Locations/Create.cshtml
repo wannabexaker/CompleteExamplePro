@@ -1,0 +1,32 @@
+@model CompleteExampleApp.Models.Entities.Location
+@{
+    ViewData["Title"] = "Create Location";
+}
+
+<h2>Create Location</h2>
+
+<form asp-action="Create" method="post" class="mt-3">
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Street" class="form-label"></label>
+        <input asp-for="Street" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="HouseNumber" class="form-label"></label>
+        <input asp-for="HouseNumber" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="PostalCode" class="form-label"></label>
+        <input asp-for="PostalCode" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="CityName" class="form-label"></label>
+        <input asp-for="CityName" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>

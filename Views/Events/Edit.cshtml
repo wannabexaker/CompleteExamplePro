@@ -1,0 +1,41 @@
+@model CompleteExampleApp.Models.Entities.Event
+@{
+    ViewData["Title"] = "Edit Event";
+}
+
+<h2>Edit Event</h2>
+
+<form asp-action="Edit" method="post" class="mt-3">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="DatePlanned" class="form-label"></label>
+        <input asp-for="DatePlanned" type="datetime-local" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label asp-for="MaxParticipants" class="form-label"></label>
+        <input asp-for="MaxParticipants" type="number" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="MinAge" class="form-label"></label>
+        <input asp-for="MinAge" type="number" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="LocationId" class="form-label"></label>
+        <input asp-for="LocationId" type="number" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="OrganizerId" class="form-label"></label>
+        <input asp-for="OrganizerId" type="number" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>

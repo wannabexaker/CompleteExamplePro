@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-5 fw-bold">Welcome to CompleteExample</h1>
+    <p class="lead mt-3">This is your central dashboard to manage all database entities.</p>
+</div>
+
+<div class="container mt-5">
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">App Users</h5>
+                    <p class="card-text">Manage application users and their information.</p>
+                    <a asp-controller="AppUsers" asp-action="Index" class="btn btn-primary">Open</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Events</h5>
+                    <p class="card-text">Create and manage events, dates, and participation.</p>
+                    <a asp-controller="Events" asp-action="Index" class="btn btn-primary">Open</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Organizers</h5>
+                    <p class="card-text">View and manage event organizers.</p>
+                    <a asp-controller="Organizers" asp-action="Index" class="btn btn-primary">Open</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4 mt-3">
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Locations</h5>
+                    <p class="card-text">Manage all locations used for events.</p>
+                    <a asp-controller="Locations" asp-action="Index" class="btn btn-primary">Open</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Cities</h5>
+                    <p class="card-text">Edit and maintain your list of cities.</p>
+                    <a asp-controller="Cities" asp-action="Index" class="btn btn-primary">Open</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Tags</h5>
+                    <p class="card-text">Define and manage tags for event categorization.</p>
+                    <a asp-controller="Tags" asp-action="Index" class="btn btn-primary">Open</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="text-center mt-5 text-muted">
+    <p>CompleteExample © 2025 — ASP.NET Core MVC + PostgreSQL</p>
+</footer>

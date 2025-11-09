@@ -1,0 +1,42 @@
+@model IEnumerable<CompleteExampleApp.Models.Entities.Event>
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2>Events</h2>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-striped table-bordered align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Date Planned</th>
+            <th>Max Participants</th>
+            <th>Min Age</th>
+            <th>LocationId</th>
+            <th>OrganizerId</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Name</td>
+                <td>@e.DatePlanned?.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>@e.MaxParticipants</td>
+                <td>@e.MinAge</td>
+                <td>@e.LocationId</td>
+                <td>@e.OrganizerId</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@e.Id">Edit</a>
+                    <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@e.Id">Details</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@e.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

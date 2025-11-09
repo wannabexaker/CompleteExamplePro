@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="CompleteExamplePro_Architecture" id="0">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Browser (User)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f2f2;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Controllers&#xa;(Route requests, logic)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e1f2;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="35" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Models&#xa;(Data, Validation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddebf7;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Views (.cshtml)&#xa;(Render HTML)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ddebf7;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Entity Framework Core&#xa;(ORM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="35" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="PostgreSQL Database&#xa;(Docker Container)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4d6;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="140" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Docker Compose&#xa;(Web + DB Containers)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2efda;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="175" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Batch Scripts&#xa;(Start/Stop/Rebuild)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c6e0b4;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Visual Studio&#xa;(Build, Publish, Debug)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2efda;fontColor=#000000;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="HTTP Request" style="endArrow=block;html=1;rounded=1;fontColor=#FFFFFF;textShadow=1;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="endArrow=block;html=1;rounded=1;fontColor=#000000;textShadow=1;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="endArrow=block;html=1;rounded=1;fontColor=#000000;textShadow=1;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="DB ops" style="endArrow=block;html=1;rounded=1;fontColor=#FFFFFF;textShadow=1;" parent="1" source="3" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="SQL Queries" style="endArrow=block;html=1;rounded=1;fontColor=#000000;textShadow=1;" parent="1" source="6" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Results" style="endArrow=block;html=1;rounded=1;fontColor=#FFFFFF;textShadow=1;" parent="1" source="7" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="HTML Response" style="endArrow=block;html=1;rounded=1;fontColor=#FFFFFF;textShadow=1;" parent="1" source="5" target="2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="endArrow=block;html=1;rounded=1;fontColor=#000000;textShadow=1;" parent="1" source="8" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="endArrow=block;html=1;rounded=1;fontColor=#000000;textShadow=1;" parent="1" source="8" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="endArrow=block;html=1;rounded=1;fontColor=#000000;textShadow=1;" parent="1" source="9" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Build/Deploy" style="endArrow=block;html=1;rounded=1;fontColor=#FFFFFF;textShadow=1;" parent="1" source="10" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

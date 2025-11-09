@@ -1,0 +1,16 @@
+﻿@model CompleteExampleApp.Models.Entities.Organizer
+@{
+    ViewData["Title"] = "Organizer Details";
+}
+
+<h2>Organizer Details</h2>
+
+<div class="card mt-3">
+    <div class="card-body">
+        <p><strong>User ID:</strong> @Model.UserId</p>
+        <p><strong>Password:</strong> @Model.Password</p>
+    </div>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.UserId" class="btn btn-warning mt-3">Edit</a>
+<a asp-action="Index" class="btn btn-secondary mt-3">Back</a>
