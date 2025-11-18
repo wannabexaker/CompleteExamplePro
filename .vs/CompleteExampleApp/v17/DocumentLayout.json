@@ -1,173 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\",
+  "WorkspaceRootPath": "C:\\Projects\\CompleteExamplePro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\tags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\tags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\tags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\tags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\organizers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\organizers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\organizers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\organizers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\organizers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\locations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\locations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\locations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\users\\jiannis\\documents\\peoplecert\\completeexamplepro\\views\\shared.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\tags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\tags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\tags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\tags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\organizers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\organizers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\organizers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\organizers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\organizers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\organizers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\locations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\locations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\locations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|c:\\projects\\completeexamplepro\\views\\shared.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E5D981-B396-AA05-EF19-4F24182F7467}|CompleteExampleApp.csproj|solutionrelative:views\\shared.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -178,462 +178,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\AppUsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AppUsersController.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\AppUsersController.cs",
-              "RelativeToolTip": "Controllers\\AppUsersController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T20:33:10.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T21:21:35.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tags\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Tags\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:56:05.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tags\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Details.cshtml",
-              "RelativeToolTip": "Views\\Tags\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:55:50.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T17:57:04.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:59:13.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T17:57:06.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T17:58:14.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LocationsController.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\LocationsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LocationsController.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\LocationsController.cs",
-              "RelativeToolTip": "Controllers\\LocationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T21:20:05.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "Controllers\\EventsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAD4vycAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T21:32:02.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Models\\Entities\\Event.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Event.cs",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Models\\Entities\\Event.cs",
-              "RelativeToolTip": "Models\\Entities\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T21:34:07.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tags\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Tags\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:55:44.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tags\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Create.cshtml",
-              "RelativeToolTip": "Views\\Tags\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:55:36.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Tags\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Tags\\Index.cshtml",
-              "RelativeToolTip": "Views\\Tags\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:55:21.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locations\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Locations\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:43:11.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locations\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Locations\\Edit.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:42:51.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:37:43.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locations\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Create.cshtml",
-              "RelativeToolTip": "Views\\Locations\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T17:57:17.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organizers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Index.cshtml",
-              "RelativeToolTip": "Views\\Organizers\\Index.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T18:19:18.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organizers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Organizers\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T18:21:37.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organizers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Create.cshtml",
-              "RelativeToolTip": "Views\\Organizers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T18:20:14.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organizers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Organizers\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T18:20:46.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organizers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Organizers\\Details.cshtml",
-              "RelativeToolTip": "Views\\Organizers\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T18:21:22.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Details.cshtml",
-              "RelativeToolTip": "Views\\Events\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:37:37.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:37:30.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Index.cshtml",
-              "RelativeToolTip": "Views\\Events\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:37:11.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Events\\Create.cshtml",
-              "RelativeToolTip": "Views\\Events\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:37:19.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cities\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Cities\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:36:45.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locations\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Details.cshtml",
-              "RelativeToolTip": "Views\\Locations\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T17:57:18.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\AppUsers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Delete.cshtml",
-              "RelativeToolTip": "Views\\AppUsers\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:35:28.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locations\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Locations\\Index.cshtml",
-              "RelativeToolTip": "Views\\Locations\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T17:57:18.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\AppUsers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Details.cshtml",
-              "RelativeToolTip": "Views\\AppUsers\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:35:18.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\AppUsers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Edit.cshtml",
-              "RelativeToolTip": "Views\\AppUsers\\Edit.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:35:05.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\AppUsers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Create.cshtml",
-              "RelativeToolTip": "Views\\AppUsers\\Create.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:34:49.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\AppUsers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\AppUsers\\Index.cshtml",
-              "RelativeToolTip": "Views\\AppUsers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:34:36.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cities\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cities\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T17:57:15.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cities\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Create.cshtml",
-              "RelativeToolTip": "Views\\Cities\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T17:57:11.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Cities\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Edit.cshtml",
               "RelativeToolTip": "Views\\Cities\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -641,11 +194,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cities\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cities\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T17:57:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:37:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:37:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:37:37.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:37:30.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:37:11.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:57:04.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:57:06.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Cities\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Cities\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Details.cshtml",
               "RelativeToolTip": "Views\\Cities\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -653,23 +303,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cities\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cities\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T19:33:36.75Z"
+              "WhenOpened": "2025-10-24T19:36:45.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cities\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Cities\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cities\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T17:57:11.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppUsers\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Details.cshtml",
+              "RelativeToolTip": "Views\\AppUsers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:35:18.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppUsers\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\AppUsers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:35:28.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppUsers\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Create.cshtml",
+              "RelativeToolTip": "Views\\AppUsers\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:34:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -677,11 +375,311 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "Controllers\\AppUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:33:10.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "Controllers\\LocationsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:20:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAjwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:32:02.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:21:35.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Models\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Event.cs",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Models\\Entities\\Event.cs",
+              "RelativeToolTip": "Models\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:34:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T17:58:14.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:59:13.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tags\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Details.cshtml",
+              "RelativeToolTip": "Views\\Tags\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:55:50.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tags\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Tags\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:56:05.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tags\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Tags\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:55:44.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tags\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Create.cshtml",
+              "RelativeToolTip": "Views\\Tags\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:55:36.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tags\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Tags\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tags\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:55:21.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:43:11.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:42:51.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T17:57:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizers\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Organizers\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T18:19:18.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizers\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Organizers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T18:21:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizers\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Organizers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T18:20:14.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizers\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Organizers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T18:20:46.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organizers\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Organizers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Organizers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T18:21:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Details.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T17:57:18.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Locations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T17:57:18.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AppUsers\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:35:05.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppUsers\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\AppUsers\\Index.cshtml",
+              "RelativeToolTip": "Views\\AppUsers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:34:36.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T19:33:36.75Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 41,
               "Title": "Shared.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Shared.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CompleteExamplePro\\Views\\Shared.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared.cshtml",
-              "ToolTip": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\Views\\Shared.cshtml",
+              "ToolTip": "C:\\Projects\\CompleteExamplePro\\Views\\Shared.cshtml",
               "RelativeToolTip": "Views\\Shared.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

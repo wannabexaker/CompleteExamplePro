@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "osXddvRvRgQ=",
+  "dgSpecHash": "za6VZynh+8c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\CompleteExampleApp.csproj",
+  "projectFilePath": "C:\\Projects\\CompleteExamplePro\\CompleteExampleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jiannis\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
     "C:\\Users\\Jiannis\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

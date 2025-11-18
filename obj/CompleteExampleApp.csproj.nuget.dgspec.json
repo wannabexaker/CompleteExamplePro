@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\CompleteExampleApp.csproj": {}
+    "C:\\Projects\\CompleteExamplePro\\CompleteExampleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\CompleteExampleApp.csproj": {
+    "C:\\Projects\\CompleteExamplePro\\CompleteExampleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\CompleteExampleApp.csproj",
+        "projectUniqueName": "C:\\Projects\\CompleteExamplePro\\CompleteExampleApp.csproj",
         "projectName": "CompleteExampleApp",
-        "projectPath": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\CompleteExampleApp.csproj",
+        "projectPath": "C:\\Projects\\CompleteExamplePro\\CompleteExampleApp.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jiannis\\Documents\\PeopleCert\\CompleteExamplePro\\obj\\",
+        "outputPath": "C:\\Projects\\CompleteExamplePro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
