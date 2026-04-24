@@ -75,3 +75,10 @@ Built for clarity, maintainability, and real-world relevance, this project repre
 
 This project is released under the MIT License.
 You are free to use, modify, and distribute it for both educational and commercial purposes.
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+Licensed under the Apache License 2.0 - see [LICENSE](./LICENSE) and [NOTICE](./NOTICE).  
+Created by [Ioannis (wannabexaker)](https://github.com/wannabexaker) - Attribution required.
